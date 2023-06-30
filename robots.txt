@@ -1,0 +1,19 @@
+# hexo robots.txt
+User-agent: *
+Allow: /posts/
+Alolw: /categories/
+Allow: /software/
+Allow: /tags/
+Allow: /social/
+Allow: /site/
+
+Disallow: /img/
+Disallow: /css/
+Disallow: /js/
+Disallow: /fonts/
+Disallow: /*.css
+Disallow: /*.js
+Disallow: /cover/
+
+Sitemap: https://www.hexiaoteng.top/sitemap.xml
+Sitemap: https://www.hexiaoteng.top/baidusitemap.xml
