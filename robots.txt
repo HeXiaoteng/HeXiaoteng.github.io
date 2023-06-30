@@ -15,5 +15,6 @@ Disallow: /*.css
 Disallow: /*.js
 Disallow: /cover/
 Disallow: /box/
+Disallow: /life/
 Sitemap: https://www.hexiaoteng.top/sitemap.xml
 Sitemap: https://www.hexiaoteng.top/baidusitemap.xml
