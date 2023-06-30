@@ -1,7 +1,7 @@
 # hexo robots.txt
 User-agent: *
 Allow: /posts/
-Alolw: /categories/
+Allow: /categories/
 Allow: /software/
 Allow: /tags/
 Allow: /social/
