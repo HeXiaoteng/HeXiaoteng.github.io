@@ -6,7 +6,8 @@ Allow: /software/
 Allow: /tags/
 Allow: /social/
 Allow: /site/
-
+Disallow: /talk/
+Disallow: /resources/
 Disallow: /img/
 Disallow: /css/
 Disallow: /js/
