@@ -7,7 +7,7 @@ Allow: /tags/
 Allow: /social/
 Allow: /site/
 Disallow: /talk/
-Disallow: /resources/
+Disallow: /resources.hexiaoteng.top
 Disallow: /img/
 Disallow: /css/
 Disallow: /js/
